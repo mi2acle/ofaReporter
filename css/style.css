@@ -1,0 +1,12 @@
+.pic{
+    width: 800px;
+    height: 500px;
+    position: relative;
+    left: 0px;
+}
+.content{
+    position: relative;
+    right: 0px;
+    width: 400px;
+    height: 500px;
+}
